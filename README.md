@@ -14,11 +14,11 @@ Quick to adapt and always eager to learn new technologies. </p>
 
 - 🤓 Always learning new things.
 
-- 🤔 I’m currently looking for hands-on experience, this is [MY RESUME]().
+<!--🤔 I’m currently looking for hands-on experience, this is [MY RESUME]().-->
 
-- 💥 You can visit [MY WEBSITE]().
+<!-- 💥 You can visit [MY WEBSITE]().-->
 
-- ⚡ What I like to do: **I like so much learning, volleyball and coding of course**
+- ⚡ What I like to do: **I like so much trekking, volleyball and coding of course**
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 <div align="center">
