@@ -6,7 +6,7 @@
 networking, and information security. Focus on security, with experience in teamwork, project documentation, and agile methodologies.
 Quick to adapt and always eager to learn new technologies. </p>
 
-- 🌱 I’m currently learning **Python and React**
+- 🌱 I’m currently learning **Express and TypeScript**
 
 - 👯 I’m looking to collaborate on **front-end projects and security projects**
 
