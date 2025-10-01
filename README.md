@@ -3,7 +3,7 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; <strong>Talking about me</strong> 
 
 <p> I consider myself as a responsible and organized student with a good foundation in programming, 
-networking, and information security. Passionate about security, with experience in teamwork, project documentation, and agile methodologies.
+networking, and information security. Focus on security, with experience in teamwork, project documentation, and agile methodologies.
 Quick to adapt and always eager to learn new technologies. </p>
 
 - 🌱 I’m currently learning **Python and React**
