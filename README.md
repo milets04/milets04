@@ -18,7 +18,6 @@ Quick to adapt and always eager to learn new technologies. </p>
 
 <!-- 💥 You can visit [MY WEBSITE]().-->
 
-- ⚡ What I like to do: **I like so much trekking, volleyball and coding of course**
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 <div align="center">
